@@ -1,0 +1,75 @@
+/* Color Name */
+h1 {
+    color: rgb(41, 3, 3);
+    /* Bonus 1 */
+    background-color: red;
+}
+
+/* RGB */
+h2 {
+    color: rgb(201, 182, 9);
+    /* Bonus 1 */
+    background-color: #003800;
+}
+
+/* Hexadecimal Shorthand */
+h3 {
+    color: #000;
+    /* Bonus 1 */
+    background-color: #ffff00;
+}
+
+/* Hexadecimal */
+h4 {
+    color: #06a506;
+    /* Bonus 1 */
+    background-color: thistle;
+}
+
+/* Hexadecimal Shorthand with Transparency */
+h5 {
+    color: #0009;
+    /* Bonus 1 */
+    background-color: burlywood;
+}
+
+/* RGBA */
+h6 {
+    color: rgb(73, 8, 110);
+    /* Bonus 1 */
+    background-color: chocolate;
+}
+
+/* Hexadecimal with Transparency */
+p {
+    color: #6d063688;
+    /* Bonus 1 */
+    background-color: cornflowerblue;
+}
+
+ /* span {
+    color: hotpink;
+}
+*/
+#first {
+    color: hotpink;
+}
+
+/* li:first-child {
+    color: hotpink;
+}*/
+
+li:last-child {
+    background-color: peachpuff;
+}
+
+/* Bonus 5 */
+/* .bird {
+    border: green;
+    border-style: solid;
+    border-width: 5px;
+} */
+
+.bird {
+    border: solid 5px green;
+}
